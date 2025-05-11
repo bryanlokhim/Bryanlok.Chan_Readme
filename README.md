@@ -1,6 +1,6 @@
 ## Hi, I'm Bryan Lok Him Chan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 <img align='right' src="assets/bouldering_image.jpg" width="230" alt="Silhouette of a boulderer at sunset">
-<img align='right' src="https://media.giphy.com/media/26n6WywJ4si2e4d6M/giphy.gif" width="230">
 
 <p><em>Software Engineer | PCAP-Certified Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 BEng Mechanical Engineering, University of Exeter (2024) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>

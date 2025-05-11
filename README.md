@@ -1,63 +1,19 @@
-👋 Hey, I'm Bryan Lok Him Chan! 🚀
-about_me = {
-    "name": "Bryan Lok Him Chan",
-    "pronouns": "he" | "him",
-    "location": "Ealing, London, UK 📍",
-    "role": "Software Engineer | Python Enthusiast",
-    "mission": "Building scalable solutions for energy tech and beyond! 🌱",
-    "contact": {
-        "email": "bchimhim15@gmail.com",
-        "linkedin": "linkedin.com/in/bryanlokchan",
-        "github": "github.com/bryanlokhim"
-    }
-}
+<h1 align="center">Hi 👋, I'm Bryan_Chan</h1>
+<h3 align="center">I'm an aspiring Python developer based in London, passionate about building backend solutions. I'm currently seeking opportunities to apply my skills in Python, SQLite, and data processing.</h3>
 
-🌟 About Me
-I'm a Mechanical Engineering BEng graduate (University of Exeter, 2024) turned Python-certified Software Engineer (PCAP, April 2025) with a passion for coding, automation, and problem-solving. With 1+ year of project-based experience, I’ve built RESTful APIs, CLI tools, and automation scripts using Python, Django, and AWS. I’m fueled by curiosity, love tackling LeetCode challenges (50+ solved!), and am eager to grow in energy tech, web development, and cloud computing.
-Fun fact: I’m trilingual (English, Cantonese, Mandarin) and a bouldering enthusiast who thrives on collaboration and overcoming challenges—whether in code or on the climbing wall! 🧗‍♂️
-💻 Tech Stack
-skills = {
-    "languages": ["Python (PCAP Certified)", "C++"],
-    "frameworks": ["Django", "Django REST Framework"],
-    "cloud": ["AWS (S3, ECS)"],
-    "tools": ["Git", "MATLAB", "Excel"],
-    "learning": ["HTML", "JavaScript", "CSS", "Docker", "Linux"],
-    "practices": ["REST API Integration", "Automation", "Data Processing", "Problem-Solving"],
-    "soft_skills": ["Collaboration", "Attention to Detail", "Eagerness to Learn"]
-}
+- 🔭 I’m currently working on [Finance Tracker (Backend)](https://github.com/bryanlokhim/finance-tracker-backend)
 
-🛠️ Featured Projects
+- 🌱 I’m currently learning **python and AWS**
 
-Aviation Data API: Built a RESTful API with Python, Django, and Postgres on AWS, processing 1,000+ records for energy system integrations.  
-CLI Text Analyzer: Developed a Python CLI tool to analyze text files (word count, sentiment analysis) with robust error handling.  
-File Organizer: Automated 500+ file workflows with Python, saving 10 hours weekly.  
-Robotic Arm Control: Engineered a C++/MATLAB system, boosting performance by 12%.
+- 💬 Ask me about **css, Matlab, python, AWS**
 
-Check out more on my GitHub! 🖥️
-🌍 Community & Impact
-community = {
-    "Climbing Club (Exeter)": "Organized bouldering events for 25+ people, boosting team cohesion by 20%.",
-    "STEM Outreach (Exeter)": "Mentored 15 high school students in Python, increasing tech engagement by 25%.",
-    "LeetCode": "Solved 50+ problems to sharpen algorithmic thinking."
-}
+- 📫 How to reach me **bryanlok.chan@gmail.com**
 
-🎯 What’s Next?
-I’m on a mission to:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Lok Him Bryan Chan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lok him bryan chan" height="30" width="40" /></a>
+<a href="https://instagram.com/chanbryan432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanbryan432" height="30" width="40" /></a>
+</p>
 
-Dive deeper into front-end development (HTML, JavaScript, CSS).
-Master cloud technologies (AWS, Docker, Linux).
-Contribute to open-source projects in energy tech.
-Join an Agile team to build impactful, scalable solutions.
-
-Currently, I’m exploring #100DaysOfCode to level up my web dev skills—stay tuned for updates! 🚧
-📬 Let’s Connect!
-I love meeting new people, sharing ideas, and collaborating on exciting projects. Whether you’re a recruiter, developer, or fellow tech enthusiast, feel free to:
-
-📩 Email me at bchimhim15@gmail.com
-🔗 Connect on LinkedIn
-🌐 Explore my GitHub
-
-print("Thanks for stopping by! Let’s build something amazing together! 😄")
-
-
-Built with 💻, ☕, and a passion for learning by Bryan Lok Him Chan
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

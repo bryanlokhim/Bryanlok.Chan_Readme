@@ -1,36 +1,52 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Hi, I'm Bryan Lok Him Chan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-###
+<img align='right' src="https://media.giphy.com/media/26n6WywJ4si2e4d6M/giphy.gif" width="230">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p><em>Software Engineer | PCAP-Certified Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+BEng Mechanical Engineering, University of Exeter (2024) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
+Based in London, UK | Passionate about energy tech solutions! 🌱<br>
+<a href="https://www.linkedin.com/in/bryanlokchan">LinkedIn</a> | <a href="https://github.com/bryanlokhim">GitHub</a> | <a href="mailto:bchimhim15@gmail.com">Email</a></em></p>
 
-###
+[![LinkedIn: bryanlokchan](https://img.shields.io/badge/-bryanlokchan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryanlokchan)](https://www.linkedin.com/in/bryanlokchan)
+![GitHub followers](https://img.shields.io/github/followers/bryanlokhim?label=Follow&style=social)
+[![PCAP Badge](https://img.shields.io/badge/PCAP-Certified-green?style=flat-square&logo=python&logoColor=white&link=https://www.credly.com/badges/9367beef-097f-4829-a50a-5d9e9ae88c74/public_url)](https://www.credly.com/badges/9367beef-097f-4829-a50a-5d9e9ae88c74/public_url)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 📫 Like to meet me?
 
-###
+Pick a slot if you'd like to chat about Python, energy tech, or bouldering—make sure to share your agenda!
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<a href="https://calendly.com/bryanlokchan/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-###
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...
+```bash
+
+bryan = {
+    "pronouns": "He" | "Him",
+    "code": ["Python", "C++"],
+    "askMeAbout": ["web dev", "automation", "cloud computing", "energy tech", "problem-solving"],
+    "technologies": {
+        "backEnd": {
+            "python": ["Django", "Django REST Framework"],
+        },
+        "cloud": {
+            "aws": ["S3", "ECS"],
+        },
+        "devOps": ["Git"],
+        "databases": ["PostgreSQL"],
+        "misc": ["REST APIs", "MATLAB", "Excel"],
+        "learning": ["HTML", "JavaScript", "CSS", "Docker", "Linux"],
+    },
+    "projects": {
+        "Aviation Data API": "RESTful API for 1,000+ records",
+        "CLI Text Analyzer": "Text processing with keyword search",
+        "File Organizer": "Automated 500+ file workflows",
+        "Robotic Arm Control": "C++/MATLAB system with 12% performance boost",
+    },
+    "community": {
+        "Climbing Club": "Organized bouldering events for 25+ people",
+        "STEM Outreach": "Mentored 15 students in Python",
+        "LeetCode": "Solved 50+ problems",
+    },
+    "currentFocus": "Building scalable solutions for energy tech",
+    "funFact": "I'm trilingual (English, Cantonese, Mandarin) and love bouldering!"
+}
